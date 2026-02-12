@@ -19,4 +19,4 @@ class Eagle extends Bird {
 const eagle = new Eagle();
 eagle.fly();
 const penguin = new Penguin();
-penguin.fly();
+penguin.fly(); // throw an error
